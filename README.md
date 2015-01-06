@@ -1,3 +1,11 @@
+Quick Poll
+==========
+
+I need to make a poll. So I'm making a poll.
+
+How to make a poll
+------------------
+
 The goal is to read in an array of questions. Those questions will have a key, text (actual question) and an array of answers. Those answers will have values, and next question key.
 
 If someone answers with a specific answer, it will send you to the question specified by the answer.
